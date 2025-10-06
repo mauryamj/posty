@@ -33,7 +33,7 @@ Run the app:
 flutter run
 
 
-##Project Structure
+## Project Structure
 
 -lib/data/ – Models and repository for API calls.
 
