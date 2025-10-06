@@ -34,6 +34,7 @@ flutter run
 
 
 ##Project Structure
+
 -lib/data/ – Models and repository for API calls.
 
 -lib/ui/home/ – Screens, widgets, and BLoC for Home.
