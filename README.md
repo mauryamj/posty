@@ -19,3 +19,23 @@ A simple Flutter application to display posts fetched from [JSONPlaceholder](htt
 - [flutter_bloc]
 - [http]
 - [visibility_detector]
+
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/mauryamj/posty
+Navigate to the project folder:
+cd posty
+Get dependencies:
+flutter pub get
+Run the app:
+flutter run
+
+
+##Project Structure
+-lib/data/ – Models and repository for API calls.
+
+-lib/ui/home/ – Screens, widgets, and BLoC for Home.
+
+-lib/main.dart – Entry point.
